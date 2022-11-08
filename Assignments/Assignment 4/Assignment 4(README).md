@@ -7,7 +7,6 @@ property/data/state
 behivour/methods/functions
 instance/object
 
-
 Student class
 Data - int roll, String name, double marks;
 Method - printDetails, changeMarks, addDetails;
