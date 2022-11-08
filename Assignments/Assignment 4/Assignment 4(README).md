@@ -14,9 +14,10 @@ Method - printDetails, changeMarks, addDetails;
 
 class is a combination of data and methods which operate over those data.
 
-
 2.WAP in java to find Factorial of a number using command line argument
+
 3.WAP in java to find sum of 2 numbers using command line argument
+
 4.WAP in java to display Fibonacci series using command line argument
 
 5.WAP to print table of number 3 X 1 =3 till 3 X 10=30.
